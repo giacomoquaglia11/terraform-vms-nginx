@@ -1,7 +1,6 @@
 # terraform-vms-nginx
 Terraform - Linux VMs with a Nginx Containers
 
-Task Description
 Goal:
 - An HTML page rendering the text "Giacomo Quaglia Exercise 002 - VM 01" will be browsable at the URL http://<IP_1>:80/
 - An HTML page rendering the text "Giacomo Quaglia Exercise 002 - VM 02" will be browsable at the URL http://<IP_2>:80/
