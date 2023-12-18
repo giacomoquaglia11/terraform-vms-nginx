@@ -13,6 +13,6 @@ Expectations:
   - The Azure credentials for Terraform are available in the LastPass shared folder "Shared-Tutoring Giacomo Quaglia"
 - The Virtual Machines configurations will be performed through bash script/s to run after the Cloud Resources provisioning
   - The Terraform "remote-exec" provider or other solutions can be used to execute the script/s
-- The work, to be considered done, should be pushed in the git repository tutoring_giacomo-quaglia_terraform-001
+- The work, to be considered done, should be pushed in the git repository "tutoring_giacomo-quaglia_terraform-001"
 
 ![tickets-SXPDEVOG-432](https://github.com/giacomoquaglia11/terraform-vms-nginx/assets/153645847/24d87ced-8831-4f0c-a71c-fac7ef32a916)
